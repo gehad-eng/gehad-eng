@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gehad Dahman! 🚀
 
-<!--
-**gehad-eng/gehad-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Professional Programmer | Lead Developer | Master's Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building robust, scalable web applications, optimizing systems, and exploring the depths of computer science
+ and the Lead Developer at SabaTech (www.sabatc.com). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# currently working 
+    - Full-stack web applications 
+    - Server migrations 
+    - VPS optimization 
+    - CI/CD deployment workflows 
+    - E-commerce storefronts
+
+# tools 
+    - Next.js
+    - Tailwind CSS 
+    - Go 
+    - Supabase 
+    - Cloudflare 
+    - Git 
+    - GitHub Actions
+
+# reach me
+Email: Gehaddahman@gmail.com
